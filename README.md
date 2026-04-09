@@ -306,7 +306,7 @@ await sock.sendMessage(target, {
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
                     url: "https://t.me/ZidxyzzEllThomas",
-                    merchant_url: "https://t.me/badzzne2"
+                    merchant_url: "https://t.me/ZidxyzzEllThomas", 
                 })
             }
         ]
