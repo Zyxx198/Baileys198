@@ -88,7 +88,7 @@ await sock.sendMessage(target, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/badzzne2", 
+        joinLink: "https://call.whatsapp.com/video/ZidxyzzEllThomas", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
