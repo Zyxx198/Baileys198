@@ -125,7 +125,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2 ",
+        footer: "telegram: @ZidxyzzEllThomas ",
         buttons: [
             {
                 name: "cta_copy",
@@ -148,13 +148,13 @@ await sock.sendMessage(target, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @badzzne2",      
+        footer: "telegram: @ZidxyzzEllThomas",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
                 limited_time_offer: {            
                     text: "idk hummmm?",            
-                    url: "https://t.me/badzzne2",            
+                    url: "https://t.me/ZidxyzzEllThomas",            
                     copy_code: "yume",            
                     expiration_time: Date.now() * 999          
                 },          
@@ -167,7 +167,7 @@ await sock.sendMessage(target, {
                 tap_target_configuration: {            
                     title: " X ",            
                     description: "bomboclard",            
-                    canonical_url: "https://t.me/badzzne2",            
+                    canonical_url: "https://t.me/ZidxyzzEllThomas",            
                     domain: "shop.example.com",            
                     button_index: 0          
                 }        
@@ -195,8 +195,8 @@ await sock.sendMessage(target, {
                                 highlight_label: "label",                  
                                 rows: [                    
                                     {                      
-                                        title: "@badzzne2",                      
-                                        description: "love you",                      
+                                        title: "@ZidxyzzEllThomas",                      
+                                        description: "love you hama",                      
                                         id: "row_2"                    
                                     }                  
                                 ]                
@@ -227,7 +227,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @ZidxyzzEllThomas",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -280,7 +280,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @ZidxyzzEllThomas",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "badzzne2.pdf",
@@ -296,7 +296,7 @@ await sock.sendMessage(target, {
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/badzzne2",
+            sourceUrl: "https://t.me/ZidxyzzEllThomas",
             showAdAttribution: true,
             renderLargerThumbnail: false         
         },
@@ -305,7 +305,7 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
+                    url: "https://t.me/ZidxyzzEllThomas",
                     merchant_url: "https://t.me/badzzne2"
                 })
             }
@@ -322,7 +322,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @ZidxyzzEllThomas", 
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "badzzne2.pdf",
@@ -332,8 +332,8 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/ZidxyzzEllThomas",
+                    merchant_url: "https://t.me/ZidxyzzEllThomas"
                 })
             }
         ]
